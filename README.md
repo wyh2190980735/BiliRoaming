@@ -70,3 +70,9 @@ https://github.com/yujincheng08/BiliRoaming/wiki#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%
 Telegram: [@biliroaming](https://t.me/biliroaming)
 ### License
 [GNU General Public License, version 3](LICENSE)
+
+# 改版说明
+本改版来自[Rovniced](https://github.com/Rovniced/BiliRoaming)
+
+- 增加番剧字幕繁简化功能
+- 增加魔法刻录功能
